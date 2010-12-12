@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EuclideanMaps\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2010-12-16 20:47\n"
+"PO-Revision-Date: 2010-12-16 20:55+0100\n"
+"Last-Translator: Elisa Frutos Bernal <efb@usal.es>\n"
+"Language-Team: Elisa Frutos <efb@usal.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Row Euclidean Map"
+msgstr "Mapa euclideo por filas"
+
+msgid "Interaction effect"
+msgstr "Efecto interaccion"
+
+msgid "Main effect"
+msgstr "Efecto principal"
+
+msgid "Column Euclidean Map"
+msgstr "Mapa euclideo por columnas"
+
+msgid "Euclidean Maps"
+msgstr "Mapas Euclideos"
+
+msgid "Choose a table:"
+msgstr "Seleccione una tabla:"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Change Color"
+msgstr "Cambia el color"
+
+msgid "Change Symbol"
+msgstr "Cambia el icono"
+
+msgid "Graph"
+msgstr "Grafico"
+
+msgid "Model diagnosis: Euclidean Maps"
+msgstr "Modelos de diagnosis: Mapas euclideos"
+
+msgid "MODEL DIAGNOSIS: EUCLIDEAN MAPS"
+msgstr "MODELOS DE DIAGNOSIS: MAPAS EUCLIDEOS"
+
+msgid "Upload file"
+msgstr "Carga fichero"
+
